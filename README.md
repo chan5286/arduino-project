@@ -1,6 +1,7 @@
 <arduino code>
 
 void setup() {
+
   Serial.begin(9600);
 }
 int a;
